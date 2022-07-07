@@ -14,7 +14,7 @@
     "discord.js": "^11.5.1",
     "fs": "0.0.1-security",
     "jimp": "^0.6.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ms": "^2.1.2",
     "superagent": "^5.1.0"
   }
